@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Varghese+P+Roy!;&color=6A0DAD&background=FFFFFF&weight=bold&cursor=|&pause=1000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Varghese+P+Roy!;&color=FFFFFF" />
 </h1>
+
 
 
 # 💫 About Me:
