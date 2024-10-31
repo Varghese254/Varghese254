@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Varghese+P+Roy!;&color=6A0DAD" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Varghese+P+Roy!;&color=6A0DAD&background=FFFFFF&weight=bold&cursor=|&pause=1000" />
 </h1>
+
 
 # 💫 About Me:
 🔭 I’m currently working on:<br>- Improving my programming skills in various languages such as Python, Java, and C<br><br>👯 I’m looking to collaborate on:<br>- Open-source projects where I can contribute to and learn from the community.<br>- Innovative software development projects, especially those involving web development.<br><br>🤝 I’m looking for help with:<br>- Advanced concepts in software development and best practices.<br>- Guidance on career opportunities and internships in the tech industry.<br><br>🌱 I’m currently learning:<br>- New frameworks and tools like Laravel and Django.<br>- Concepts in data structures and algorithms to improve my problem-solving skills.<br><br>💬 Ask me about:<br>- My experiences and projects during my MCA at Rajagiri College of Social Sciences, Kalamassery.<br>- Tips on balancing academic workload with personal projects.<br><br>⚡ Fun fact:<br>- I enjoy solving coding challenges in my free time;<br><br>
